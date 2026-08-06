@@ -27,7 +27,3 @@ app/src/main/java/com/cajsa/moodleaf/
 │   ├── trends/     Mood charts
 │   └── settings/   Theme + weather city
 ```
-
-## Next steps
-
-See `todo.md` for the backlog.
